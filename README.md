@@ -47,15 +47,20 @@
   
 <br>
 <br>
-  <br>
-  
+ 
 
-| ![NotJarethGG's github stats](https://github-readme-stats.vercel.app/api?username=NotJarethGG&show_icons=true&theme=tokyonight) | ![NotJarethGG GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotJarethGG&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotJarethGG&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NotJarethGG&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<h2>GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NotJarethGG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NotJarethGG&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NotJarethGG&theme=dark&hide_border=true"/>
+</p>
 <br>
 
